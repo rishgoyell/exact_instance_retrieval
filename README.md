@@ -1,6 +1,8 @@
+This was done as an assignment for a course on visual recognition.
 The implementation is done in MATLAB and Python.
-All code has been written by us except that for SIFT feature extraction(taken from David Lowe's homepage)
+Code for SIFT feature extraction(taken from David Lowe's homepage)
 Python dependencies required are Numpy, ml_metrics and FLANN
+Read report.pdf for details on the algorithm
 
 * The folder feature extraction contains code for SIFT feature extraction and conversion to rootSIFT.
 * train.py: driver code for calling functions in logical order to learn a model given data
